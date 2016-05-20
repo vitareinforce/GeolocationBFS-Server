@@ -237,7 +237,7 @@ _Pvt_Extensions
 
 # Data
 Debug/data/*
-
+GeolocationBFS/data*
+GeolocationBFS/Debug/data*
 # Compiled
-GeolocationBFS/*
 GeolocationDFS/*
