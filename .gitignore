@@ -234,3 +234,10 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+# Data
+Debug/data/*
+
+# Compiled
+GeolocationBFS/*
+GeolocationDFS/*
